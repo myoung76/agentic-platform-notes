@@ -35,7 +35,7 @@ For developer platforms, this matters because GitHub's Copilot agent extension m
 
 ## My MCP work
 
-**[domotz-mcp-server](https://github.com/myoung76/domotz-mcp-server)** — MCP server connecting Claude to the Domotz network monitoring platform. Exposes 130+ Domotz API endpoints as MCP tools for natural language control of infrastructure monitoring, device management, and network diagnostics across 500K+ managed endpoints.
+**[domotz-mcp-server](https://github.com/younginseattle/domotz-mcp-server)** — MCP server connecting Claude to the Domotz network monitoring platform. Exposes 130+ Domotz API endpoints as MCP tools for natural language control of infrastructure monitoring, device management, and network diagnostics across 500K+ managed endpoints.
 
 I led the product architecture and delivery of this integration — tool schema design, agent orchestration patterns, and the go-to-market strategy for MCP-enabled agentic workflows.
 
